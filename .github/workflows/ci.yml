@@ -3,10 +3,8 @@ name: 'CI'
 on:
   push:
     branches:
-    - main
-    - features/**
-    tags:
-    - '*.*.*'
+    - mainx
+    - featuresx/**
   pull_request:
 
 env:
