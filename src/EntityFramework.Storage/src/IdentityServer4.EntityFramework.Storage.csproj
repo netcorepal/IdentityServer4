@@ -1,7 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <PackageId>IdentityServer4.EntityFramework.Storage</PackageId>
     <TargetFrameworks>net6.0;net7.0;net8.0</TargetFrameworks>
     
     <Description>EntityFramework persistence layer for IdentityServer4</Description>
